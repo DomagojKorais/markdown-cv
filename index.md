@@ -67,7 +67,7 @@ Junior software developer at <a href="https://www.cybertec.it/en/">Cybertec</a>,
 The main idea is to translate domain knowledge into rules, expressed using linguistic variables, and than fine-tune the mapping between linguistic variables and quantitative values using machine learning. 
 
 
-### Hobbies and Interests
+##c Hobbies and Interests
 - Caving
 - Mountaneering
 - Photography
