@@ -1,91 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Domagoj Korais's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Domagoj Korais
+Junior software developer, background in data science and physics.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:domagoj.korais@gmail.com">email</a>
+<a href="https://www.linkedin.com/in/domagoj-korais/">Linkedin</a>
+<a href="https://github.com/DomagojKorais">GitHub</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+`Sep 2017 - March 2020`
+<a href="https://dssc.units.it/">__Master degree in Data Science and Scientific Computing__</a>
 
-`1654-1660`
-__The King's School, Grantham.__
+- Grade: 110/110.
+- University: Università degli studi di Trieste, Trieste (Italy).
+- Thesis: "An active learning rule based decision support system for production planning."
+- Acquired knowledge:
+    - Statistics, Bayesian statistics, Machine learning, data visualization, computer vision, artificial intelligence, relational databases.
+    - Programming languages: C++, Python, R.
+    - Introduction to HPC concepts using MPI, OpenMp and CUDA on a cluster.
+    - Linux: bash.
+    - Versioning: git.
+    - Agile development concepts and methods (test driven development, continuous integration) in Java.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Sep 2016 - Sep 2017`
+<a href="https://corsi.unibo.it/2cycle/PhysicsEarthSystem">__Master degree in Physics of the Earth System__</a>
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Status: Uncompleted.
+- University: Alma Mater Studiorum - Università di Bologna, Bologna (Italy).
+- Acquired knowledge: physics of the atmosphere, oceanography, climatology, basics in geodesy.
 
 
+`Apr 2016 - Sep 2017`
+__Erasmus+ traineeship in Slovenia__
 
-## Publications
+Traineeship at the <a href="https://izrk.zrc-sazu.si/en/predstavitev#v"> Karst research institute</a> located in
+Postojna.
+My research focused on the study of the relation between external and internal weather conditions, using available meteorological data and in-situ data loggers.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Sep 2011 - March 2016`
+<a href="https://df.units.it/">__Bachelor of physics__</a>  
+- Grade: 96/110.
+- University: Università degli studi di Trieste, Trieste (Italy).
+- Thesis: "Gravimetric survey of the "Grotta Impossibile" cave."
+- Thesis publication (not peer reviewed): <a href="http://www.lithoflex.org/bib/Atti%20e%20Memorie_15_KoBr.pdf">"Atti e Memorie della Commissione Grotte“E. Boegan”"</a>
 
-### Journals
+` Sep 2006 - Jul 2011 ` 
+__Scientific high school degree__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Liceo scientifico Paolo Ruffini, Viterbo (Italy).
 
-`1669`
-Lectiones opticæ.
+## Work experience
 
-etc. etc. etc.
+`Oct 2018-now`
 
-### Patents
+Junior software developer at <a href="https://www.cybertec.it/en/">Cybertec</a>, Trieste (Italy).
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### What am I doing:
+- Developing mainly server side the company's APS (advanced planning and scheduling) Web application, using Typescript, Node.Js, SQL, Backbone.js, some C++.
+- Implementing new functions based on customer necessities.
+- Using Selenium Web Driver for automated browser-based testing.
+- During the master thesis we developed a rule-based system in order to make the company product more competitive.
+The main idea is to translate domain knowledge into rules, expressed using linguistic variables, and than fine-tune the mapping between linguistic variables and quantitative values using machine learning. 
 
 
+### Hobbies and Interests
+- Caving
+- Mountaneering
+- Photography
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2020 -->
 
 
