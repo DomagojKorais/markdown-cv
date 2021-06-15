@@ -3,13 +3,43 @@ layout: cv
 title: Domagoj Korais's CV
 ---
 # Domagoj Korais
-Junior software developer, background in data science and physics.
+Data scientist, background in software development and physics.
 
 <div id="webaddress">
 <a href="mailto:domagoj.korais@gmail.com">email</a>
 <a href="https://www.linkedin.com/in/domagoj-korais/">Linkedin</a>
 <a href="https://github.com/DomagojKorais">GitHub</a>
 </div>
+
+
+## Current Working position
+
+`Sept-2019-now`
+
+Data scientist at <a href="https://www.sinergise.com/">Sinergise</a>, Ljubljana (Slovenia).
+
+### Activities:
+
+- Building solutions based on the application of machine learning algorithms to satellite observations.
+- Communication of results to clients and to the public.
+- Managing of a smaller project, from client onboarding to final delivery of results.
+- Organization of journal clubs to keep the team up to date with the state of the art.
+- Technology stack: Python and the relative data science stack, AWS for data storage and cloud computing, Git as a versioning system, Agile methodology and Gitlab to organize the work.
+
+## Previous Working experience
+
+`Oct 2018-Sept-2019`
+
+Junior software developer at <a href="https://www.cybertec.it/en/">Cybertec</a>, Trieste (Italy).
+
+### Activities:
+- Developing mainly server side the company's APS (advanced planning and scheduling) Web application, using Typescript, Node.Js, SQL, Backbone.js, some C++.
+- Implementing new functions based on customer necessities.
+- Using Selenium Web Driver for automated browser-based testing.
+- During the master thesis we developed a rule-based system in order to make the company product more competitive.
+The main idea is to translate domain knowledge into rules, expressed using linguistic variables, and than fine-tune the mapping between linguistic variables and quantitative values using machine learning.
+
+
 
 ## Education
 `Sep 2017 - March 2020`
@@ -26,15 +56,8 @@ Junior software developer, background in data science and physics.
     - Versioning: git.
     - Agile development concepts and methods (test driven development, continuous integration) in Java.
 
-`Sep 2016 - Sep 2017`
-<a href="https://corsi.unibo.it/2cycle/PhysicsEarthSystem">__Master degree in Physics of the Earth System__</a>
 
-- Status: Uncompleted.
-- University: Alma Mater Studiorum - Università di Bologna, Bologna (Italy).
-- Acquired knowledge: physics of the atmosphere, oceanography, climatology, basics in geodesy.
-
-
-`Apr 2016 - Sep 2017`
+`Apr 2016 - Sep 2016`
 __Erasmus+ traineeship in Slovenia__
 
 Traineeship at the <a href="https://izrk.zrc-sazu.si/en/predstavitev#v"> Karst research institute</a> located in
@@ -53,21 +76,10 @@ __Scientific high school degree__
 
 Liceo scientifico Paolo Ruffini, Viterbo (Italy).
 
-## Work experience
-
-`Oct 2018-now`
-
-Junior software developer at <a href="https://www.cybertec.it/en/">Cybertec</a>, Trieste (Italy).
-
-### What am I doing:
-- Developing mainly server side the company's APS (advanced planning and scheduling) Web application, using Typescript, Node.Js, SQL, Backbone.js, some C++.
-- Implementing new functions based on customer necessities.
-- Using Selenium Web Driver for automated browser-based testing.
-- During the master thesis we developed a rule-based system in order to make the company product more competitive.
-The main idea is to translate domain knowledge into rules, expressed using linguistic variables, and than fine-tune the mapping between linguistic variables and quantitative values using machine learning. 
 
 
-##c Hobbies and Interests
+
+## Hobbies and Interests
 - Caving
 - Mountaneering
 - Photography
