@@ -41,6 +41,7 @@ The main idea is to translate domain knowledge into rules, expressed using lingu
 
 
 ## Education
+
 `Sep 2017 - March 2020`
 <a href="https://dssc.units.it/">__Master degree in Data Science and Scientific Computing__</a>
 
@@ -70,7 +71,7 @@ My research focused on the study of the relation between external and internal w
 - Thesis: "Gravimetric survey of the "Grotta Impossibile" cave."
 - Thesis publication (not peer reviewed): <a href="http://www.lithoflex.org/bib/Atti%20e%20Memorie_15_KoBr.pdf">"Atti e Memorie della Commissione Grotte“E. Boegan”"</a>
 
-` Sep 2006 - Jul 2011 ` 
+`Sep 2006 - Jul 2011` 
 __Scientific high school degree__
 
 Liceo scientifico Paolo Ruffini, Viterbo (Italy).
