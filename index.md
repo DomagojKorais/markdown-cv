@@ -14,21 +14,20 @@ Data scientist, background in software development and physics.
 
 ## Current Working position
 
-`Sept-2019-now`
-
-Data scientist at <a href="https://www.sinergise.com/">Sinergise</a>, Ljubljana (Slovenia).
-
+`Sept-2020-now`
+Data scientist at <a href="https://www.sinergise.com/">Sinergise</a> and <a href="https://www.planet.com//">Planet Labs</a>. (Sinergise was acquired by Planet Labs in September 2023).
 ### Activities:
 
-- Building solutions based on the application of machine learning algorithms to satellite observations.
+- Building solutions based on the application of machine learning algorithms to satellite observations. Time series analysis and classification.
 - Communication of results to clients and to the public.
-- Managing of a smaller project, from client onboarding to final delivery of results.
+- Managing of production projects, from client onboarding to final delivery of results.
 - Organization of journal clubs to keep the team up to date with the state of the art.
-- Technology stack: Python and the relative data science stack, AWS for data storage and cloud computing, Git as a versioning system, Agile methodology and Gitlab to organize the work.
+- Technology stack: Python and the relative data science stack, AWS for data storage and cloud computing, Git as versioning system, Agile methodology and Gitlab to organize the work. Ray and Dask for scheduling. Parquet data format for batch analytics.
+
 
 ## Previous Working experience
 
-`Oct 2018-Sept-2019`
+`Oct 2018-Sept-2020`
 
 Junior software developer at <a href="https://www.cybertec.it/en/">Cybertec</a>, Trieste (Italy).
 
