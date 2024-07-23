@@ -76,15 +76,8 @@ __Scientific high school degree__
 Liceo scientifico Paolo Ruffini, Viterbo (Italy).
 
 
-
-
-## Hobbies and Interests
-- Caving
-- Mountaneering
-- Photography
-
 <!-- ### Footer
 
-Last updated: July 2020 -->
+Last updated: July 2024 -->
 
 
