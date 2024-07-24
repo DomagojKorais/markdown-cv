@@ -19,8 +19,8 @@ Data scientist, background in sviluppo software e fisica.
 
 Data scientist  presso <a href="https://www.sinergise.com/">Sinergise</a> e <a href="https://www.planet.com//">Planet Labs</a>.
 
- Attualemnte lavoro in full remote da Trieste, Planet Labs ha la sede a San Francisco e varie succursali in Europa.
-(Sinergise è stata acquisita da Planet Labs a settembre 2023, le mie manzioni sono rimaste le stesse).
+ Attualmente lavoro in full remote da Trieste, Planet Labs ha la sede a San Francisco e varie succursali in Europa.
+(Sinergise è stata acquisita da Planet Labs a settembre 2023, le mie mansioni sono rimaste le stesse).
 ### Attività:
 
 - Sviluppo di soluzioni basate sull'applicazione di algoritmi di machine learning alle osservazioni satellitari, con un focus particolare nell'ambito del monitoraggio delle attività agricole.
@@ -28,7 +28,7 @@ Data scientist  presso <a href="https://www.sinergise.com/">Sinergise</a> e <a h
 - Comunicazione dei risultati ai clienti e al pubblico.
 - Gestione di progetti, dall'onboarding del cliente alla consegna finale dei risultati, scrittura assieme al reparto commerciale delle specifiche tecniche, meeting con i clienti. 
 - Organizzazione di journal club per mantenere il team aggiornato sullo stato dell'arte.
-- Stack tecnologico: Python e il relativo stack di data science (Pandas, Numpy, pyarrow, pytorch, LightGBM), cloud computing: AWS per l'archiviazione dei dati (bucket S3) e il cloud computing (lavorando su instance EC2, anche multi GPU con training di modello parallelo), Git come sistema di versionamento, docker per la virtualizzazione delle macchine e la riproducibilità dei risultati, metodologia Agile e Gitlab per organizzare il lavoro. Ray e Dask per l'esecuzione di pipeline. File parquet per le analisi batch con IO parallelo.
+- Stack tecnologico: Python e il relativo stack di data science (Pandas, Numpy, Pyarrow, pytorch, LightGBM), cloud computing: AWS per l'archiviazione dei dati (bucket S3) e il cloud computing (lavorando su instance EC2, anche multi GPU con training di modelli di deep learning in parallelo), Git come sistema di versionamento, docker per la virtualizzazione delle macchine e la riproducibilità dei risultati, metodologia Agile e Gitlab per organizzare il lavoro. Ray e Dask per l'esecuzione di pipeline. File parquet per le analisi batch con IO parallelo.
 
 
 ## Precedenti esperienze lavorative
